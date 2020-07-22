@@ -1,0 +1,24 @@
+{
+  "name": "gnocci",
+  "version": "0.0.0",
+  "description": "gRPC server mocking and interceptor for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap -R classic"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maumercado/gnocci.git"
+  },
+  "keywords": [
+    "mock",
+    "intercept",
+    "grpc"
+  ],
+  "author": "Mauricio Mercado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maumercado/gnocci/issues"
+  },
+  "homepage": "https://github.com/maumercado/gnocci#readme"
+}
